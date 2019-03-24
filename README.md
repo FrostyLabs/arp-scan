@@ -7,11 +7,11 @@ The script takes two arguments.
 
 An example: 
 
-`python3 arp-scan.py ens33 192.168.217.0/24`
+```python3 arp-scan.py ens33 192.168.217.0/24```
 
 Example expected output (different based on online devices on your network):
 
-`
+```
 [*] Scanning...
 
 [*] IP - MAC
@@ -22,4 +22,4 @@ Example expected output (different based on online devices on your network):
 192.168.217.254 - 00:50:56:e8:cd:79
 
 [*] Scan Complete. Duration: 0:00:28.120490
-`
+```
